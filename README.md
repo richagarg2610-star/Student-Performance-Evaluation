@@ -43,8 +43,6 @@ The Excel workbook contains the student records, analysis sheets, charts, and da
 Data Privacy
 The dataset used in this project is fictional and created for educational and portfolio demonstration purposes. It does not represent real students or individuals.
 
-Conclusion
-This project demonstrates practical Microsoft Excel skills for data analysis, reporting, and visualization.
 
 Conclusion
 This project demonstrates practical Microsoft Excel skills for data analysis, reporting, and visualization.
