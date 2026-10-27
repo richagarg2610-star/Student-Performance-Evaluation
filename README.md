@@ -47,6 +47,3 @@ The dataset used in this project is fictional and created for educational and po
 Conclusion
 This project demonstrates practical Microsoft Excel skills for data analysis, reporting, and visualization.
 
-Conclusion
-
-This project demonstrates practical Microsoft Excel skills for data analysis, reporting, and visualization.
